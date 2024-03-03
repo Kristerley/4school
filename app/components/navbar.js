@@ -10,12 +10,7 @@ export default function Navbar() {
             Home
           </Link>
         </li>
-        <li key ="2" className="navList">
-          <Link href="/chat">
-            Chat
-          </Link>
-        </li>
-        <li key="3" className="navList">
+        <li key="2" className="navList">
           <Link href="/shop">
             Shop
           </Link>
